@@ -3,6 +3,16 @@ geektime-all 极客时间所有返现海报
 
 扫码海报上的二维码，拼团购买或原价购买！可以扫码二维码后，可以直接参团。购买成功后，可以加我微信：xttblog，发你返现红包。
 
+### 返现18的课程
+
+[玩转Git三剑客](https://time.geekbang.org/course/intro/100021601?code=JEZWpjXZg3cQk9nQ2rZ8qgwwL3ZJGnJEqX6frdCHg-Q%3D "带你深入掌握Git、GitHub和GitLab")
+
+[从0开始学微服务](https://time.geekbang.org/column/intro/100014401?code=1wqNpOYac86D1cRxi6hv1DpP33CXlnLWA-Yz%2FqoOGU0%3D "微博服务化专家的一线实战经验")
+
+[推荐系统三十六式](https://time.geekbang.org/column/intro/100005101?code=LX9ax4K3drTq7EKBMib3Ix4dt1XbNR3w1b6O9AczbX0%3D "解决你推荐系统80%的问题")
+
+[朱赟的技术管理课](https://time.geekbang.org/column/intro/100002401?code=DfsRC9ko%2F8CiKr252pLoOBp9uNZZ5Z86NFlqQR%2FpEbI%3D "从技术到管理，让你的目标函数达到最优解")
+
 ### 返现24的课程
 
 [Flutter核心技术与实战](https://time.geekbang.org/column/intro/100031001?code=v2PRdigy%2FeUHVS49ZxZkP72fj%2F2mGn3Val1V1kb9fqI%3D "来自Google的高性能跨平台开发框架")
@@ -48,5 +58,33 @@ geektime-all 极客时间所有返现海报
 [代码精进之路](https://time.geekbang.org/column/intro/100019601?code=RG37OBuseeXSnAY1T1GNoJbXnZlx21C8OpQfTeJKups%3D "你写的每一行代码都是你的名片")
 
 [数据分析实战45讲](https://time.geekbang.org/column/intro/100021701?code=sJbfQigwegxoA26ymbJsafrE8NeeidOvLYJFP9vGMZM%3D "即学即用的数据分析入门课")
+
+[Linux性能优化实战](https://time.geekbang.org/column/intro/100020901?code=7-v5RQ%2FHwWZYDCT37pJg-CU7y34x01dDTB9iC661dAk%3D "10分钟帮你找到系统瓶颈")
+
+[Nginx核心知识100讲](https://time.geekbang.org/course/intro/100020301?code=2%2FF%2FwRx3%2Fn9vxAiEtYvPXpTmYFAqJ6MwuH%2FYmgt4kpQ%3D "百万并发下的Nginx性能优化之道")
+
+[算法面试通关40讲](https://time.geekbang.org/course/intro/100019701?code=td29b2mLvYp73NUumyqlDHRQe9NE0v2VTL7SPtwMS4Q%3D "前Facebook工程师带你吃透大厂面试题")
+
+[数据结构与算法之美](https://time.geekbang.org/column/intro/100017301?code=zEsKFtAyUJGCJrbV1G1D4LpHyQY4Q08ctP03k7MhinM%3D "为工程师量身打造的数据结构与算法私教课")
+
+[深入剖析Kubernetes](https://time.geekbang.org/column/intro/100015201?code=b0Fd6mrLHUKULDtGtQkYusO2OesnAHV1aXNhhlhvy3U%3D "Kubernetes原来可以如此简单")
+
+[程序员进阶攻略](https://time.geekbang.org/column/intro/100012101?code=izCFMjXNnF33VIRrjfimlgLhsLuE3yhdT3MmkGDPgNQ%3D "每个程序员都应该知道的成长法则")
+
+[邱岳的产品实战](https://time.geekbang.org/column/intro/100012001?code=YjvoCoOE%2FmXGeYwY9L-rkj5UfkfoY1hnbamJty-YfsI%3D "从0到100的产品启示录")
+
+[深入拆解Java虚拟机](https://time.geekbang.org/column/intro/100010301?code=m5TBG14UK0g58XKWrBMfeoyYGb3jtgs5fAFQjdZjllA%3D "Oracle 高级研究员手把手带你入门JVM")
+
+[软件测试52讲](https://time.geekbang.org/column/intro/100009601?code=n03NG8jJy6Mlrwtm%2FQqcRqx-K7SO9lIipuqdFBMk87w%3D "从小工到专家的实战心法")
+
+[趣谈网络协议](https://time.geekbang.org/column/intro/100007101?code=y0XUOLjBKQtrKIKYWlTPOrCKYLlIOZkrvO8dkQR%2FPmk%3D "像小说一样的网络协议入门课")
+
+[从0开始学架构](https://time.geekbang.org/column/intro/100006601?code=pjilpV3CvJgU%2FXOdXl-gk9ZKLyVOV27hE0I2ue-8XjA%3D "资深技术专家的实战架构心法")
+
+[技术与商业案例解读](https://time.geekbang.org/column/intro/100001901?code=XEjDDWRRL4rPlXP7Lm-arzeM1npqxHaur7VzmVxz6DE%3D "一堂课看懂技术创新与商业模式")
+
+### 返现51的课程
+
+[左耳听风](https://time.geekbang.org/column/intro/100002201?code=KCJsS96zFb0jvaTVTcX1d6C9eTGUBTO3w3jh9LaB5h4%3D "洞悉技术的本质，享受科技的乐趣")
 
 # geektime-all
