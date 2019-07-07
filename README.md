@@ -87,4 +87,18 @@ geektime-all 极客时间所有返现海报
 
 [左耳听风](https://time.geekbang.org/column/intro/100002201?code=KCJsS96zFb0jvaTVTcX1d6C9eTGUBTO3w3jh9LaB5h4%3D "洞悉技术的本质，享受科技的乐趣")
 
-# geektime-all
+# 推荐购买方法
+
+购买之前，若未注册过极客时间的账户，则可以打开这个链接进行注册：[注册领取礼券](https://time.geekbang.org/activity/getinvite?gk_ucode=99BDC1E629049D "领取 35 元新人礼")。
+
+注册完成后，打开上面课程对应的链接！若有拼团，则可以直接选择“去参团”。举例如下图所示：
+
+[![拼团购买举例]](https://raw.githubusercontent.com/xmt1139057136/geektime-all/master/images/buy-guide.jpg)
+
+如果当前没有拼团活动，可以选择直接订阅或者等待下次有活动时进行购买。直接购买举例如下所示：
+
+[![直接订阅购买举例]](https://raw.githubusercontent.com/xmt1139057136/geektime-all/master/images/geektime-buy.png)
+
+如有疑问，可以选择加我的微信：xttblog，备注“返现”进行沟通！
+
+[![极客时间返现微信号]](https://raw.githubusercontent.com/xmt1139057136/geektime-all/master/images/xttblog-wx.png)
